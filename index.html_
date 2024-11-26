@@ -1,0 +1,39 @@
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="description" content="Sorsa tienda de motos y motokars"/>
+<meta name="author" content="Sorsa Motors" />
+<meta name="copyright" content="Sorsa Motors" />
+<meta name="keywords" content="Sorsa, tienda motos"/>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-YZ0BMYKBLZ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-YZ0BMYKBLZ');
+</script>
+<title>Sorsa Motors</title>
+<style>
+body {
+    background-color: #00000e;
+}
+h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-size: 1.5em;
+    color: #f5f5f5;
+    padding-top: 30px;
+}
+img {
+    width: 100%;
+    margin-top: 30px;;
+}
+</style>
+</head>
+<body>
+<h1>¡Estamos renovando nuestra web, prepárate para muchas sorpresas...!</h1>
+<img src="sorsa.jpg" />
+<p>
+</p>
